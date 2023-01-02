@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/companycrud.iml" filepath="$PROJECT_DIR$/.idea/companycrud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../crudimage/.idea/crudimage.iml" filepath="$PROJECT_DIR$/../crudimage/.idea/crudimage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../crudop/.idea/crudop.iml" filepath="$PROJECT_DIR$/../crudop/.idea/crudop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../newshop/.idea/myshop.iml" filepath="$PROJECT_DIR$/../newshop/.idea/myshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pdo student/.idea/pdo student.iml" filepath="$PROJECT_DIR$/../pdo student/.idea/pdo student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pdoemployee/.idea/pdoemployee.iml" filepath="$PROJECT_DIR$/../pdoemployee/.idea/pdoemployee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pdoform/.idea/pdoform.iml" filepath="$PROJECT_DIR$/../pdoform/.idea/pdoform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pdoproject/.idea/pdoproject.iml" filepath="$PROJECT_DIR$/../pdoproject/.idea/pdoproject.iml" />
+    </modules>
+  </component>
+</project>
